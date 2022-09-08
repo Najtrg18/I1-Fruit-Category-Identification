@@ -17,4 +17,10 @@ Implement a fruit category recognition app in a Big Data environment
 # Competencies
 - Big data environment 
 - Spark apache
-- Services cloud AWS: EC2, S3, IAM
+- Services cloud AWS : EC2, S3, IAM
+- Setting up EC2 : SSH, Python/pip installation, Virtual env, Jupyter installation, Spark installation, and libraries
+- Setting up S3 : Bucket S3
+- Setting up IAM : security group definition for EC2, setting users for S3
+- Big Data libraries : PySpark, Sparl SQL, SparkML, Boto3
+- Other libraires : Keras TensorfFlow, Scikit-learn
+- PRe-processing, Reduction and Modeling : VGG16, PCA, TSNE, KMeans
