@@ -13,6 +13,7 @@ Implement a fruit category recognition app in a Big Data environment
 - All scripts in Pyspark
 - Scalable solution - increase in data foreseen
 - Use of a cloud environment
+- Develop a presentation
 
 # Competencies
 - Big data environment 
